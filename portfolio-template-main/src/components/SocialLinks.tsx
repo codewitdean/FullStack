@@ -7,7 +7,7 @@ export default function SocialLinks() {
   return (
     <div className={styles.socialLinks}>
       <a
-        href="https://github.com/githubUsername"
+        href="https://github.com/codewitdean"
         target="_blank"
         rel="noopener noreferrer"
         className={styles.link}
@@ -16,7 +16,7 @@ export default function SocialLinks() {
         <FaGithub className={styles.icon} size={24} />
       </a>
       <a
-        href="https://www.linkedin.com/in/name-here/"
+        href="https://www.linkedin.com/in/dean-obeng-asante/"
         target="_blank"
         rel="noopener noreferrer"
         className={styles.link}
