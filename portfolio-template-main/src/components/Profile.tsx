@@ -73,7 +73,7 @@ export default function Profile() {
                 View Resume
               </a>
               <a href="#contact" className={`${styles.button} ${styles.outline}`}>
-                Contact Me
+                Contact Me 
               </a>
             </div>
           </div>
